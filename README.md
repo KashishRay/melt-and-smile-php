@@ -1,9 +1,9 @@
-![Screenshot 2024-05-06 151340](https://github.com/NermeenKamal/Flower-Store-FullStack/assets/114883845/975aa854-e624-4e4b-92a0-c1b06fff7288)
+
 ---
 
-# Flower Store Full Stack Website
+# ice cream Full Stack Website
 
-This project is a full-stack flower store website created as a university task with my team. The website is built using HTML, CSS, JavaScript, PHP, MySQL, and the XAMPP server. It includes multiple pages such as home, about us, products, and feedback. 
+This project is a full-stack  icecream store website created as a university task with my team. The website is built using HTML, CSS, JavaScript, PHP, MySQL, and the XAMPP server. It includes multiple pages such as home, about us, products, and feedback. 
 
 ### Features:
 - Home page
@@ -37,9 +37,3 @@ This project is a full-stack flower store website created as a university task w
 9. Regular users can buy products and send feedback.
 10. Admins can edit products, manage orders, and view feedback.
 11. Add products to your cart and enjoy a 10% discount on all items.
-
-### Additional Information:
-- This project was developed as a university task for [University Name].
-- Feel free to explore the website and provide feedback.
-
----
