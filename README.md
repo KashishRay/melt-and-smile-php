@@ -31,9 +31,9 @@ This project is a full-stack  icecream store website created as a university tas
 3. Import the database file provided (`database.sql`) into your MySQL database.
 4. Place the project folder inside the `htdocs` directory of your XAMPP installation.
 5. Start the Apache and MySQL services in XAMPP.
-6. Open your web browser and navigate to `localhost/flower-store`.
-7. Use the login/logout icon to log in as a regular user or an admin.
-8. Explore the different pages including home, about us, products, and feedback.
-9. Regular users can buy products and send feedback.
-10. Admins can edit products, manage orders, and view feedback.
-11. Add products to your cart and enjoy a 10% discount on all items.
+6. Open your web browser and navigate to `localhost/ice`.
+8. Use the login/logout icon to log in as a regular user or an admin.
+9. Explore the different pages including home, about us, products, and feedback.
+10. Regular users can buy products and send feedback.
+11. Admins can edit products, manage orders, and view feedback.
+12. Add products to your cart and enjoy a 10% discount on all items.
